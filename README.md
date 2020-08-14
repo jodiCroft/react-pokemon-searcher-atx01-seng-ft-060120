@@ -6,7 +6,7 @@
 
 ## React Code Challenge Practice
 
-## Project Goals
+## Project Goal
 
 - Create an index displaying pokemon 'cards'
   - Render each pokemon name, picture, and hp in a card
